@@ -19,15 +19,7 @@ This project is a web application that allows users to remove the background fro
 
 ## Installation
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/Udara-Dilshan/Udara-Dilshan-Background_Remover-Website.git
-   ```
-2. Navigate to the project directory:
-   ```sh
-   cd Udara-Dilshan-Background_Remover-Website
-   ```
-3. Open `index.html` in your web browser.
+Open `index.html` in your web browser.
 
 ## Usage
 
